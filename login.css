@@ -128,12 +128,11 @@ body {
 .login:hover {
     background-color: rgb(79, 202, 196);
 }
-.login:active{
-    background-color:rgb(56, 148, 143);
+
+.login:active {
+    background-color: rgb(56, 148, 143);
 }
 
 .heading {
     outline: auto;
 }
-
-
